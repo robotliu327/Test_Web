@@ -51,8 +51,3 @@ please make sure you have the correct access rights and the repository exists.
 如果你的key丢失了，不管是公钥还是私钥，丢失一个都不能用了，解决方法也很简单，重新再生成一次，然后在http://github.com里再设置一次就行
 
 
-
-
-
-
-
