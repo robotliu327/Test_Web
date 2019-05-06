@@ -52,6 +52,7 @@ please make sure you have the correct access rights and the repository exists.
 
 
 # markdown
+
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
@@ -60,9 +61,27 @@ $$
 \end{vmatrix}
 $$
 
+
 # latex
+
+$$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
 \end{vmatrix}
+$$
+
+# 查看其他的公式能否编译
+%% Example of sequence diagram
+  sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    Note right of Bob: Bob is thinking
+    alt is sick
+        Bob->>Alice: Not so good :(
+    else is well
+        Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+        Bob->>Alice: Thanks for asking
+    end
