@@ -10,20 +10,20 @@ tags: study
 ## 1 使用git press服务搭建博客的不好的地方有：
 
 ### 1.1 参考来源
-> [1. author's article](https://gitpress.io/@gitpress/)
+1.1.1 [1. author's article](https://gitpress.io/@gitpress/)
 
-> [2. 官方参看](https://gitpress.io/c/helps/welcome)
+1.1.2 [2. 官方参看](https://gitpress.io/c/helps/welcome)
 
-> [3.author's bolg source code](https://github.com/gitpress-io/blog/blob/master/source/diagrams-with-mermaid.md)
+1.1.3 [3.author's bolg source code](https://github.com/gitpress-io/blog/blob/master/source/diagrams-with-mermaid.md)
 
 ### 1.2 使用图片不方便，需要放在source同一个file route下面 
-> [说法来源](https://gitpress.io/c/helps/troubleshooting)
->> example： ![这个是测试图片1](/Saved Pictures/2018_10_2.jpg)
->> 改成将.jpg 图片放置到和 xxx.md 文档的同级route下就会显示，
+1.2.1 [说法来源](https://gitpress.io/c/helps/troubleshooting)
+1.2.2 example： ![这个是测试图片1](/Saved Pictures/2018_10_2.jpg)
+<br>改成将.jpg 图片放置到和 xxx.md 文档的同级route下就会显示，
 
 
 
-### ~~### 1.3 使用公式好像需要安装，虽然官方写的online coding 很新颖，但是安装使用起来还是需要本地的编译，还是不方便。
+~~### 1.3 使用公式好像需要安装，虽然官方写的online coding 很新颖，但是安装使用起来还是需要本地的编译，还是不方便。
 > [添加latex公式](https://gitpress.io/@gitpress/latex)
 >> example:
 ```mermaid,autorun
@@ -40,8 +40,8 @@ tags: study
 >> 而不是会出现像 [这样的效果](https://mermaidjs.github.io/gantt.html)
 >> 解决方法暂时还没有找到  ~~
 ### (1.3) 使用公式好像可以使用了，莫名奇妙就好用了？
-> 之前在Problem-Encounted-in-Blogging.md 上面尝试使用code，但是没有成功。
->> example:
+1.3.1 之前在Problem-Encounted-in-Blogging.md 上面尝试使用code，但是没有成功。
+1.3.2example:
 ```python
 print("hello,world!")
 ```
