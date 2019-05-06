@@ -16,7 +16,7 @@ tags: study
 
 1.产生：在本地加载好主题，可以实现在`hexo s` 开启本地预览，打开浏览器访问 http://localhost:4000 是正常的。
 
-2.现象：准备使用 `hexo deploy` 将本地仓库推送到github上面出现如下报错：![](/img/error_remote_repo.png)
+2.现象：准备使用 `hexo deploy` 将本地仓库推送到github上面出现如下报错：![](/error_remote_repo.png)
 ```
 nothing to coommit,working tree clean
 Enter passpharse for key '/c/Users/RobotLiu/.ssh/id_rsa':
