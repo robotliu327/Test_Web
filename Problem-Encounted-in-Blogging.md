@@ -16,7 +16,7 @@ tags: study
 
 1.产生：在本地加载好主题，可以实现在`hexo s` 开启本地预览，打开浏览器访问 http://localhost:4000 是正常的。
 
-2.现象：准备使用 `hexo deploy` 将本地仓库推送到github上面出现如下报错：![](/error_remote_repo.png)
+2.现象：准备使用 `hexo deploy` 将本地仓库推送到github上面出现如下报错： ![](/error_remote_repo.png)
 ```
 nothing to coommit,working tree clean
 Enter passpharse for key '/c/Users/RobotLiu/.ssh/id_rsa':
@@ -50,4 +50,13 @@ please make sure you have the correct access rights and the repository exists.
 其中，公钥就是那个用来加密的数字，这也就是为什么你在本机生成了公钥之后，要上传到github的原因。从github发回来的，用那公钥加密过的数据，可以用你本地的私钥来还原。
 如果你的key丢失了，不管是公钥还是私钥，丢失一个都不能用了，解决方法也很简单，重新再生成一次，然后在http://github.com里再设置一次就行
 
+
+# 这个是公式
+$$
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
+\end{vmatrix}
+$$
 
