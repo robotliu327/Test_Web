@@ -7,17 +7,18 @@ tags: study
 > This is a NOTE
 # 前言
 
-## 使用git press服务搭建博客的不好的地方有：
+## 1 使用git press服务搭建博客的不好的地方有：
 
-* 参考来源
+### 1.1 参考来源
 > [官方参看](https://gitpress.io/c/helps/welcome)
 
-* 使用图片不方便，需要放在source同一个file route下面 
+### 1.2 使用图片不方便，需要放在source同一个file route下面 
 > [说法来源](https://gitpress.io/c/helps/troubleshooting)
 >> example： ![这个是测试图片1](/Saved Pictures/2018_10_2.jpg)
+>> 改成将.jpg 图片放置到和 xxx.md 文档的同级route下就会显示，
 
-* 使用公式好像需要安装，虽然官方写的online coding 很新颖，但是安装使用起来还是需要本地的编译，还是不方便。
->
+### 1.3 使用公式好像需要安装，虽然官方写的online coding 很新颖，但是安装使用起来还是需要本地的编译，还是不方便。
+> [添加latex公式](https://gitpress.io/@gitpress/latex)
 >> example:
 ```mermaid,autorun
   gantt
@@ -31,8 +32,8 @@ tags: study
     another task      : 24d
 ```
 >> 而不是会出现像 [这样的效果](https://mermaidjs.github.io/gantt.html)
+>> 解决方法暂时还没有找到
 
-1. 
 2. 可以更新，但是延迟很严重，起码是一分钟的时间，
 3. 要求的本地环境配置（要求有node.js/git/还需要的下载主题，要是的我换台电脑的好像就不能动我的网页了）
 
