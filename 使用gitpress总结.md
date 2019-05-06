@@ -1,6 +1,6 @@
 ---
-title: My First Blog
-date: 2019-05-04 23:48:06
+title: 使用gitpress总结
+date: 2019-05-06 23:48:06
 tags: study
 ---
 > [!NOTE]
@@ -11,17 +11,15 @@ tags: study
 ## 1 使用git press服务搭建博客的不好的地方有：
 
   ### 1.1 参考来源
-    1.1.1 [author's article](https://gitpress.io/@gitpress/)
-
-    1.1.2 [官方参看](https://gitpress.io/c/helps/welcome)
-
-    1.1.3 [author's bolg source code](https://github.com/gitpress-io/blog/blob/master/source/diagrams-with-mermaid.md)
+  1.1.1 [author's article](https://gitpress.io/@gitpress/)
+  1.1.2 [官方参看](https://gitpress.io/c/helps/welcome)
+  1.1.3 [author's bolg source code](https://github.com/gitpress-io/blog/blob/master/source/diagrams-with-mermaid.md)
 
   ### 1.2 使用图片不方便，需要放在source同一个file route下面 
-    1.2.1 [说法来源](https://gitpress.io/c/helps/troubleshooting)
-    1.2.2 example： 
-    ![这个是测试图片1](/Saved Pictures/2018_10_2.jpg)
-    改成将.jpg 图片放置到和 xxx.md 文档的同级route下就会显示，
+  1.2.1 [说法来源](https://gitpress.io/c/helps/troubleshooting)
+  1.2.2 example： 
+  ![这个是测试图片1](/Saved Pictures/2018_10_2.jpg)
+  改成将.jpg 图片放置到和 xxx.md 文档的同级route下就会显示，
 
 
 
