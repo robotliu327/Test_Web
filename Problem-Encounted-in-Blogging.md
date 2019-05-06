@@ -51,8 +51,7 @@ please make sure you have the correct access rights and the repository exists.
 如果你的key丢失了，不管是公钥还是私钥，丢失一个都不能用了，解决方法也很简单，重新再生成一次，然后在http://github.com里再设置一次就行
 
 
-# markdown
-
+## markdown 写法
 ```latex
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
@@ -64,7 +63,7 @@ $$
 ```
 
 
-# latex
+## latex写法
 
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
@@ -74,7 +73,7 @@ $$
 \end{vmatrix}
 $$
 
-# 查看其他的公式能否编译
+## 查看其他的公式能否编译
 %% Example of sequence diagram
   sequenceDiagram
     Alice->>Bob: Hello Bob, how are you?
@@ -88,4 +87,9 @@ $$
         Bob->>Alice: Thanks for asking
     end
 
-# 
+## 书写简单python代码
+
+```python
+print("hello,world!")
+```
+
