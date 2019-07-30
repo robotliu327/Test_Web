@@ -8,7 +8,7 @@
 - [没有新的衣服让你爱恋，总有种天气让你怀恋。]
 -                                 [———理智先生 《热河路》]
 
-![这个是测试图片1](https://github.com/robotliu327/Test_Web/blob/master/Saved%20Pictures/1.png)
+![这个是测试图片1](https://github.com/robotliu327/Test_Web/blob/master/Saved%20Pictures/2018_10_2.png)
 
 
 ![这个是测试图片2](../Saved Pictures/2018_10_2.jpg)
