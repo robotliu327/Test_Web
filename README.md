@@ -1,21 +1,27 @@
-# robotliu
-* for_studying_for_loving
+---
+title: 谢谢你来看我。
+author:robotliu
+date: 2019/07/30 15:40:50
+---
 
-# this version is used to test how use web.
+[!NOTE]
+>  [!ABOUT ME]
+> * for_studying_for_loving
 
-- [如果年轻时你没去过热河路，那么你现在是不是被他们淹没。]
-- [如果年轻时你去过热河路，那么你现在的生活是不是很幸福。]
-- [没有新的衣服让你爱恋，总有种天气让你怀恋。]
--                                 [———理智先生 《热河路》]
+> [!ABOUT THINKING]
+> - 如果年轻时你没去过热河路，那么你现在是不是被他们淹没。
+> - 如果年轻时你去过热河路，那么你现在的生活是不是很幸福。
+> - 没有新的衣服让你爱恋，总有种天气让你怀恋。
+> - ———理智先生 《热河路》
 
-![这个是测试图片1](https://github.com/robotliu327/Test_Web/blob/master/Saved%20Pictures/1.png)
 
+![my love](https://github.com/robotliu327/gitpress_blog/blob/master/Saved%20Pictures/2018_10_2.jpg)
+![youtube](https://www.youtube.com/watch?v=W9wAfqBd_T0)
+![b站](https://space.bilibili.com/96059501/#/favlist)
+![知乎专栏](https://www.zhihu.com/hot)
+![twitter](https://twitter.com/i/status/1156289960716251137)
 
-![这个是测试图片2](../Saved Pictures/2018_10_2.jpg)
-- [使用图片需要使用完整链接，github上传后会显示完整链接]
-
-```latex
-\{\frac{4}{5}, \sqrt{49},
-\, 6, \overline{3}, \, 7\sqrt{5}
-\}
+## 请尝试使用在线运行
+```python
+import this
 ```
