@@ -17,8 +17,10 @@ date: 2019/07/30 15:40:50
 > - 没有新的衣服让你爱恋，总有种天气让你怀恋。
 > - ———理智先生 《热河路》
 
-
 ![love](https://cn.bing.com/images/search?view=detailV2&ccid=%2fWhsjhB2&id=47385A3F2615D816F73C2AE52CB78C70E513FD90&thid=OIP._WhsjhB2Mj607aMXastinAHaEK&mediaurl=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20190117%2fcc35a0ca7983425da420111733543830.jpeg&exph=1296&expw=2304&q=%e5%93%aa%e5%90%92%e4%b9%8b%e9%ad%94%e7%ab%a5%e9%99%8d%e4%b8%96gif&simid=608015888935619872&selectedIndex=2&ajaxhist=0)
+
+![jpg](C:\Users\RobotLiu\Pictures\girl\006g0mAXgy1fuahewh06zj30jv0jvao2.jpg)
+![gif](I:\Git\gitpress_blog\Sort_algorithm\picture\1564541177238.gif)
 
 [my love](https://github.com/robotliu327/gitpress_blog/blob/master/Saved%20Pictures/2018_10_2.jpg)
 
