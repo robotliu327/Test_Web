@@ -1,7 +1,11 @@
 # 谢谢你来看我
+> [!IMPORTANT]
+> 下面的collection其实非常好用，pc端是在右下角，手机端是在简介的下方
+> -----------这是一个可爱的分界线，你发现找这里了吗？---------------------------
+
 ## collections
-### [Chocolate](https://gitpress.io/c/liu-thinking/) ---生活是一块巧克力
-### [code](https://gitpress.io/c/sort-algo/) ---coding
+### [Chocolate](https://gitpress.io/c/chocolate/) ---生活是一块巧克力
+### [code](https://gitpress.io/c/code/) ---coding
 
 > [!NOTE]
 > ABOUT ME 
@@ -14,8 +18,7 @@
 > 没有新的衣服让你爱恋，总有种天气让你怀恋。
 > ———理智先生 《热河路》
 
-> [!IMPORTANT]
-> 
+
 
 ![github_jpg](/images/1.png)
 ![github_jpg](/images/12.gif)
