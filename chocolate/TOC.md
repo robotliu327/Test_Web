@@ -9,7 +9,8 @@
 - [2018spring](2018spring)
 - [2018autumn](2018autumn)
 - [2019spring](2019spring)
-
+- [Problem-Encounted-in-Blogging](Problem-Encounted-in-Blogging)
+- [使用gitpress总结](使用gitpress总结)
 
 
 
