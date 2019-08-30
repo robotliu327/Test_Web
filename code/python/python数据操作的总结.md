@@ -1,5 +1,5 @@
 |column1|str|list|set|tuple|dic|
-|-|-|-|-
-|content1|content2|content3|
+|-|-|-|-|-|-|
+|添加元素|+/join|con|
 |||
 
