@@ -37,3 +37,4 @@ public static void SearchStack(Stack<int> input, Stack<int> stack, Stack<int> ou
 }
 
 ```
+
